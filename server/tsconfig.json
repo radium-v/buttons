@@ -1,0 +1,11 @@
+{
+    "include": ["src/**/*"],
+    "compilerOptions": {
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "module": "Node16",
+        "moduleResolution": "Node16",
+        "target": "ES2022",
+        "types": ["node"]
+    }
+}
