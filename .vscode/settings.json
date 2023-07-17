@@ -6,7 +6,7 @@
             "previewLimit": 50,
             "driver": "SQLite",
             "name": "tracker",
-            "database": "${workspaceFolder:tracker}/server/db.sqlite"
+            "database": "${workspaceFolder:buttons}/server/dist/data/db.sqlite"
         }
     ]
 }
