@@ -1,5 +1,5 @@
 {
-    "name": "tracker",
+    "name": "@radium-v/buttons",
     "version": "0.0.0",
     "description": "A distributed counting app that tracks the number of times you press buttons",
     "author": {
